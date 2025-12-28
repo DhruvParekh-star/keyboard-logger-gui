@@ -154,4 +154,3 @@ def on_close():
 
 root.protocol("WM_DELETE_WINDOW", on_close)
 root.mainloop()
-hello brother, how are you?
